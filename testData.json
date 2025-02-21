@@ -1,0 +1,13 @@
+{
+    "TC001": {
+                "id": 1,
+                "name": "Jane Doe",
+                "email": "jane.doe@example.com",
+                "age": 30
+             },
+    "TC002": {  
+                "theme": "light",
+               "notifications": true
+              }
+  }
+  

@@ -1,0 +1,32 @@
+{
+        "TC001":[
+                   {
+                    "id": 1,
+                    "name": "Sample Test Case 1",
+                    "description": "Description of the first test case_01"
+                    }
+                  ],
+         "TC002":[
+                    {
+                      "id": 2,
+                      "name": "Sample Test Case 2",
+                      "description": "Description of the first test case_02"
+                    }
+                  ],
+         "TC003":[
+                    {
+                      "id": 3,
+                      "name": "Sample Test Case 3",
+                      "description": "Description of the first test case_03"
+                    }
+                  ],
+            "TC004":[
+                    {
+                      "id": 4,
+                      "name": "Sample Test Case 4",
+                      "description": "Description of the first test case_04"
+                    }
+                  ]
+  
+
+}

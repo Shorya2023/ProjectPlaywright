@@ -1,0 +1,34 @@
+{
+        "TC001":
+                   {
+                    "id": 1,
+                    "name": "Sample Test Case 0011",
+                    "description": "Description of the first test case_01",
+                    "payment":100
+                    }
+                  ,
+         "TC002":
+                    {
+                      "id": 2,
+                      "name": "Sample Test Case 2",
+                      "description": "Description of the first test case_02",
+                      "payment":200
+                    }
+                  ,
+         "TC003":
+                    {
+                      "id": 3,
+                      "name": "Sample Test Case 3",
+                      "description": "Description of the first test case_03",
+                      "payment":300
+                    }
+                  ,
+          "TC004":
+                    {
+                      "id": 4,
+                      "name": "Sample Test Case 4",
+                      "description": "Description of the first test case_04",
+                      "payment":400
+                    }
+                
+}
