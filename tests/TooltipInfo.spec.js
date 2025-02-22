@@ -7,6 +7,7 @@ test("too tip veriication ", async({page})=>{
    const value  = page.locator("#age").getAttribute('title')
 
    console.log("code has been added to from b1");
-   
+   console.log("main has been updted");
+
 })
 
