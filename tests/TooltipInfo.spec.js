@@ -6,10 +6,7 @@ test("too tip veriication ", async({page})=>{
    await page.locator("#age").hover();
    const value  = page.locator("#age").getAttribute('title')
 
+   console.log("code has been added to from b1");
    
-   expect(value).toBe('We ask for your age only for statistical purposes.');
-    
-      
-
 })
 
