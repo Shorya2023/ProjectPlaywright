@@ -12,7 +12,7 @@ test("too tip veriication ", async({page})=>{
    expect(value).toBe('We ask for your age only for statistical purposes.');
     
 
-   console.log("code has been added to from main");
+   console.log("code has been added to from b1");
    
 
 })
