@@ -9,6 +9,8 @@ test("too tip veriication ", async({page})=>{
    console.log("code has been added to from b1");
    console.log("main has been updted");
    console.log("main has been updted again");
+   console.log("main has been updted again with added code");
+
 
 
 })
